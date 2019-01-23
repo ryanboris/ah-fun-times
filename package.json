@@ -1,0 +1,13 @@
+{
+  "name": "ah-fun-times",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/ryanboris/ah-fun-times.git",
+  "author": "ryanboris <ryan.boris@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "eslint": "^5.12.1",
+    "eslint-config-airbnb-base": "^13.1.0",
+    "eslint-plugin-import": "^2.15.0"
+  }
+}
